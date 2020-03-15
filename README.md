@@ -1,6 +1,35 @@
 # movie_web
 
-> A Vue.js project
+> A movie website like douban.
+
+## preview
+
+- login and register
+
+![](./login.png)  ![](./register.png)
+
+
+- home page
+
+![](./homepage.png)
+
+- movie list
+
+when mouse hover on image of a film, the image will change on size and color.
+
+![](./list1.png)
+
+![](./list2.png)
+
+![](./list3.png)
+
+- film detail
+
+![](./film.png)
+
+- search film
+
+![](./search.png)
 
 ## Build Setup
 
